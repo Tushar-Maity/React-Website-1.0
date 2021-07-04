@@ -3,6 +3,7 @@ import Button from '../Button'
 import { Link } from "react-router-dom"
 import { MdFingerprint } from "react-icons/md"
 import { FaBars, FaTimes } from "react-icons/fa"
+import './Navbar.css'
 
 const Navbar = () => {
 
